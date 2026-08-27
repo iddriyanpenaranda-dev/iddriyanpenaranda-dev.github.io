@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://iddriyanpenaranda-dev.github.io/sitemap.xml
